@@ -5,9 +5,9 @@
 
 -----
 
-**Use case** Gas leak prediction
-**Technology** Quantum Sensing & Quantum Machine Learning
-**Implementation** Quantum hardware requirements for the sensors and Variational Quantum Classifiers
+**Use case** Gas leak prediction <br />
+**Technology** Quantum Sensing & Quantum Machine Learning <br />
+**Implementation** Quantum hardware requirements for the sensors and Variational Quantum Classifiers <br />
 
 
 
