@@ -1,4 +1,4 @@
-# QGasBusters
+# QGasBusters كاشف الغاز | Team 20
 
 ![Q-02](https://github.com/mateo-st/qsensing-qml/assets/72941972/7e9faaba-55f9-4ae6-aa80-1ca11ad337c3)
 كاشف الغاز
@@ -6,7 +6,6 @@
 QGasBusters protects critical infrastructure by early detection of anomalies, and assisting emergency resources allocation using Quantum Sensing & Quantum Machine Learning.
 
 ## **12th Annual NYUAD Hackathon for Social Good | Quantum Computing &amp; AI Supporting QC**
-## **Team 20**
 
 **Problem solved?** Gas leak anomaly detection and predictive avoidance <br />
 **Technology** Quantum Sensing & Quantum Machine Learning (on Quantum, not just classical, Data!) <br />
@@ -18,5 +17,7 @@ QGasBusters protects critical infrastructure by early detection of anomalies, an
 
 
 
+## **Our Team 20**
 
+![image](https://github.com/mateo-st/qsensing-qml/assets/72941972/243cd18a-d8f6-4c7f-b5c8-82f8f44923ce)
 
