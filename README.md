@@ -10,7 +10,7 @@
 
 **Use case** Gas leak anomaly detection and predictive avoidance <br />
 **Technology** Quantum Sensing & Quantum Machine Learning (on Quantum, not classical, Data!) <br />
-**Implementation** In-depth investigation of Quantum hardware requirements for the sensors, demonstrated quantum advantage in Variational Quantum Classifiers over the use of classical sensing data, execution on real quantum hardware, multi-stage business plan <br />
+**Implementation** In-depth investigation of Quantum hardware requirements for the sensors, demonstrated quantum advantage in Variational Quantum Classifiers over the use of classical sensing data, execution on real quantum hardware, multi-stage business roadmap <br />
 
 
 
