@@ -9,11 +9,11 @@
 ## **Team 20**
 
 **Use case** Gas leak anomaly detection and predictive avoidance <br />
-**Technology** Quantum Sensing & Quantum Machine Learning (on Quantum, not classical, Data!) <br />
+**Technology** Quantum Sensing & Quantum Machine Learning (on Quantum, not just classical, Data!) <br />
 **Implementation** In-depth investigation of Quantum hardware requirements for the sensors, demonstrated quantum advantage in Variational Quantum Classifiers over the use of classical sensing data, execution on real quantum hardware, multi-stage business roadmap <br />
 
-
-**Slides** https://docs.google.com/presentation/d/18GyQig4jHd-cE6XFixYiLEpkwFBjkUK7G2OQNg-MVzg/edit#slide=id.g2d0420c4e10_7_451
+**Prototype demo** https://drive.google.com/file/d/1reGO_dqyUIC2G1XYK0xHYNvl_U3CWbix/view?resourcekey <br />
+**Slides** https://docs.google.com/presentation/d/18GyQig4jHd-cE6XFixYiLEpkwFBjkUK7G2OQNg-MVzg/edit#slide=id.g2d0420c4e10_7_451 <br />
 
 
 
