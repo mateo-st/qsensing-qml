@@ -13,7 +13,7 @@
 **Implementation** In-depth investigation of Quantum hardware requirements for the sensors, demonstrated quantum advantage in Variational Quantum Classifiers over the use of classical sensing data, execution on real quantum hardware, multi-stage business roadmap <br />
 
 
-
+**Slides** https://docs.google.com/presentation/d/18GyQig4jHd-cE6XFixYiLEpkwFBjkUK7G2OQNg-MVzg/edit#slide=id.g2d0420c4e10_7_451
 
 
 
