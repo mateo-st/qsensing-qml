@@ -2,7 +2,6 @@
 كاشف الغاز
 
 
-كـاشـف الغـاز
 
 | QGasBusters protects critical infrastructure by early detection of anomalies, and assisting emergency resources allocation using Quantum Sensing & Quantum Machine Learning.
 
